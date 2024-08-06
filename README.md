@@ -1,4 +1,4 @@
-# Introduction to QTrade Investing Email
+# Introduction to Door Dash Email
 
  [![](https://github.com/maxwellndiangui/DoorDash-Email/blob/main/img/DoorDash-Campaign.png)](https://maxwellndiangui.github.io/DoorDash-Email.github.io/)
 
