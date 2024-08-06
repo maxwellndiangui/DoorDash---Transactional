@@ -17,7 +17,7 @@
 
 ## Live Demo
 
- https://maxwellndiangui.github.io/QTrade-Investing-Email.github.io/
+ https://maxwellndiangui.github.io/DoorDash-Email.github.io/
  
 ## Authors
 
