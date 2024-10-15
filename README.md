@@ -1,6 +1,6 @@
 # Introduction to Door Dash Email
 
- [![](https://github.com/maxwellndiangui/DoorDash-Email/blob/main/img/DD.png)](https://maxwellndiangui.github.io/DoorDash-Email.github.io/)
+ [![](https://github.com/maxwellndiangui/DoorDash-Email/blob/main/img/1.png)](https://maxwellndiangui.github.io/DoorDash-Email.github.io/)
 
 ## Description
 
